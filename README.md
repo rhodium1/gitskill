@@ -1,2 +1,2 @@
 # gitskill
-练习clone
+练习git
